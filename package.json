@@ -1,0 +1,14 @@
+{
+  "name": "library-catalogue-api",
+  "version": "0.0.0",
+  "description": "LibraryCatalogueAPI",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  },
+  "devDependencies": {
+    "eslint": "^8.21.0"
+  },
+  "eslintConfig": {
+  }
+}
